@@ -1,0 +1,1 @@
+alert ("bienvenido a javascript");//esto es un comentario de un sola linea
